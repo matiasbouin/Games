@@ -1,3 +1,7 @@
+'''
+Un ahorcado que hice desde 0
+'''
+
 import random
 
 def display(letra, palabra, guiones):
