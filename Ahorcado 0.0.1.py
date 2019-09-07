@@ -21,7 +21,7 @@ def ahorcado():
     print("")
     print("")
     print("Ya pensé mi palabra, tiene ", str(len(palabra)), " letras.")
-##    print("Pssst developer, la palabra es: ", palabra)
+#   print("Pssst, la palabra es: ", palabra)
 
     while vidas > 0 and palabra != "".join(guiones):
         print(guiones)
