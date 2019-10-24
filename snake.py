@@ -1,5 +1,5 @@
 #VIBORITA
-
+#S/O to freecodecamp.org for this tutorial!
 import math
 import random
 import pygame
@@ -198,3 +198,4 @@ def main():
 
 
 main()
+
